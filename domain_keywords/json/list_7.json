@@ -1,0 +1,602 @@
+[
+  {
+    "original_term": "fullerene derivative",
+    "keep_discard": 1,
+    "standard_name": "Fullerene Derivative",
+    "category": "Material"
+  },
+  {
+    "original_term": "gas density",
+    "keep_discard": 1,
+    "standard_name": "Gas Density",
+    "category": "Metric"
+  },
+  {
+    "original_term": "generalized planck equation",
+    "keep_discard": 1,
+    "standard_name": "Generalized Planck Equation",
+    "category": "Concept"
+  },
+  {
+    "original_term": "global ecological footprint",
+    "keep_discard": 1,
+    "standard_name": "Global Ecological Footprint",
+    "category": "Concept"
+  },
+  {
+    "original_term": "granting",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "granular silicon particles",
+    "keep_discard": 1,
+    "standard_name": "Granular Silicon Particle",
+    "category": "Material"
+  },
+  {
+    "original_term": "groves",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "heraeus",
+    "keep_discard": 1,
+    "standard_name": "Heraeus",
+    "category": "Person/Group"
+  },
+  {
+    "original_term": "heterojunction organic",
+    "keep_discard": 1,
+    "standard_name": "Organic Heterojunction",
+    "category": "Technology"
+  },
+  {
+    "original_term": "higher contact resistance",
+    "keep_discard": 1,
+    "standard_name": "Higher Contact Resistance",
+    "category": "Metric"
+  },
+  {
+    "original_term": "higher recombination rates",
+    "keep_discard": 1,
+    "standard_name": "Higher Recombination Rate",
+    "category": "Metric"
+  },
+  {
+    "original_term": "hud point patterns",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "hydrogen generation rate",
+    "keep_discard": 1,
+    "standard_name": "Hydrogen Generation Rate",
+    "category": "Metric"
+  },
+  {
+    "original_term": "hypothetical light director",
+    "keep_discard": 1,
+    "standard_name": "Hypothetical Light Director",
+    "category": "Concept"
+  },
+  {
+    "original_term": "industrial production level",
+    "keep_discard": 1,
+    "standard_name": "Industrial Production Level",
+    "category": "Concept"
+  },
+  {
+    "original_term": "intermonolayer spacing",
+    "keep_discard": 1,
+    "standard_name": "Intermonolayer Spacing",
+    "category": "Metric"
+  },
+  {
+    "original_term": "internal optical reｬＦctance",
+    "keep_discard": 1,
+    "standard_name": "Internal Optical Reflectance",
+    "category": "Metric"
+  },
+  {
+    "original_term": "ir lamps serving",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "jillella gopala krishna",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "lag term",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "length values",
+    "keep_discard": 1,
+    "standard_name": "Length Value",
+    "category": "Metric"
+  },
+  {
+    "original_term": "light trapping struc",
+    "keep_discard": 1,
+    "standard_name": "Light Trapping Structure",
+    "category": "Component"
+  },
+  {
+    "original_term": "maculan",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "mean path",
+    "keep_discard": 1,
+    "standard_name": "Mean Free Path",
+    "category": "Metric"
+  },
+  {
+    "original_term": "metal nanoparticles decorated",
+    "keep_discard": 1,
+    "standard_name": "Metal Nanoparticle Decoration",
+    "category": "Process"
+  },
+  {
+    "original_term": "modiｬ…ation layer",
+    "keep_discard": 1,
+    "standard_name": "Modification Layer",
+    "category": "Component"
+  },
+  {
+    "original_term": "mounted bifacial photovoltaic",
+    "keep_discard": 1,
+    "standard_name": "Mounted Bifacial Photovoltaic Module",
+    "category": "Technology"
+  },
+  {
+    "original_term": "multicrystalline solar cells",
+    "keep_discard": 1,
+    "standard_name": "Multicrystalline Solar Cell",
+    "category": "Technology"
+  },
+  {
+    "original_term": "multilayer absorption coefｬ…ient",
+    "keep_discard": 1,
+    "standard_name": "Multilayer Absorption Coefficient",
+    "category": "Metric"
+  },
+  {
+    "original_term": "net generation",
+    "keep_discard": 1,
+    "standard_name": "Net Generation (rate)",
+    "category": "Metric"
+  },
+  {
+    "original_term": "optimized layer thickness",
+    "keep_discard": 1,
+    "standard_name": "Optimized Layer Thickness",
+    "category": "Metric"
+  },
+  {
+    "original_term": "performance silicon solar",
+    "keep_discard": 1,
+    "standard_name": "Performance of Silicon Solar Cell",
+    "category": "Metric"
+  },
+  {
+    "original_term": "physical intuition",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "planar glass substrates",
+    "keep_discard": 1,
+    "standard_name": "Planar Glass Substrate",
+    "category": "Component"
+  },
+  {
+    "original_term": "plasmon effect",
+    "keep_discard": 1,
+    "standard_name": "Plasmon Effect",
+    "category": "Phenomenon"
+  },
+  {
+    "original_term": "polysilicon purity",
+    "keep_discard": 1,
+    "standard_name": "Polysilicon Purity",
+    "category": "Metric"
+  },
+  {
+    "original_term": "pramatha",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "prevent silicon deposition",
+    "keep_discard": 1,
+    "standard_name": "Prevent Silicon Deposition",
+    "category": "Process"
+  },
+  {
+    "original_term": "radiative electronhole pair",
+    "keep_discard": 1,
+    "standard_name": "Radiative Electron-Hole Pair Recombination",
+    "category": "Phenomenon"
+  },
+  {
+    "original_term": "recombination life time",
+    "keep_discard": 1,
+    "standard_name": "Recombination Lifetime",
+    "category": "Metric"
+  },
+  {
+    "original_term": "recombines",
+    "keep_discard": 1,
+    "standard_name": "Recombination",
+    "category": "Phenomenon"
+  },
+  {
+    "original_term": "recovery rate",
+    "keep_discard": 1,
+    "standard_name": "Recovery Rate",
+    "category": "Metric"
+  },
+  {
+    "original_term": "reduced contact",
+    "keep_discard": 1,
+    "standard_name": "Reduced Contact Area/Resistance",
+    "category": "Concept"
+  },
+  {
+    "original_term": "reduced dynamic range",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "renew energy 15",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "research cell efｬ…iency",
+    "keep_discard": 1,
+    "standard_name": "Research Cell Efficiency",
+    "category": "Metric"
+  },
+  {
+    "original_term": "scaps",
+    "keep_discard": 1,
+    "standard_name": "SCAPS (Solar Cell Capacitance Simulator)",
+    "category": "Equipment"
+  },
+  {
+    "original_term": "separated xc functional",
+    "keep_discard": 1,
+    "standard_name": "Separated XC Functional",
+    "category": "Concept"
+  },
+  {
+    "original_term": "sequential series multijunction",
+    "keep_discard": 1,
+    "standard_name": "Sequential Series Multijunction",
+    "category": "Technology"
+  },
+  {
+    "original_term": "shj ibc",
+    "keep_discard": 1,
+    "standard_name": "SHJ-IBC Solar Cell",
+    "category": "Technology"
+  },
+  {
+    "original_term": "short circuit currents",
+    "keep_discard": 1,
+    "standard_name": "Short Circuit Current (Isc)",
+    "category": "Metric"
+  },
+  {
+    "original_term": "silane fb reactor",
+    "keep_discard": 1,
+    "standard_name": "Silane FB Reactor",
+    "category": "Equipment"
+  },
+  {
+    "original_term": "silicon conductivity",
+    "keep_discard": 1,
+    "standard_name": "Silicon Conductivity",
+    "category": "Metric"
+  },
+  {
+    "original_term": "silicon tunnel junction",
+    "keep_discard": 1,
+    "standard_name": "Silicon Tunnel Junction",
+    "category": "Component"
+  },
+  {
+    "original_term": "silver nanoparticle array",
+    "keep_discard": 1,
+    "standard_name": "Silver Nanoparticle Array",
+    "category": "Component"
+  },
+  {
+    "original_term": "sims signals",
+    "keep_discard": 1,
+    "standard_name": "SIMS (Secondary Ion Mass Spectrometry) Signal",
+    "category": "Process"
+  },
+  {
+    "original_term": "single diode model",
+    "keep_discard": 1,
+    "standard_name": "Single Diode Model",
+    "category": "Concept"
+  },
+  {
+    "original_term": "solar cells efｬ…ient",
+    "keep_discard": 1,
+    "standard_name": "Efficient Solar Cell",
+    "category": "Concept"
+  },
+  {
+    "original_term": "solar cells energy",
+    "keep_discard": 1,
+    "standard_name": "Solar Cell Energy (production)",
+    "category": "Metric"
+  },
+  {
+    "original_term": "solar cells silicon",
+    "keep_discard": 1,
+    "standard_name": "Silicon Solar Cell",
+    "category": "Technology"
+  },
+  {
+    "original_term": "solar energy capture",
+    "keep_discard": 1,
+    "standard_name": "Solar Energy Capture",
+    "category": "Phenomenon"
+  },
+  {
+    "original_term": "stepping",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "structure solar cell",
+    "keep_discard": 1,
+    "standard_name": "Solar Cell Structure",
+    "category": "Concept"
+  },
+  {
+    "original_term": "subsubsection",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "systems consisting",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "temperature hydrogenation reactor",
+    "keep_discard": 1,
+    "standard_name": "Temperature Hydrogenation Reactor",
+    "category": "Equipment"
+  },
+  {
+    "original_term": "temperature ni",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "termi",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "textured multicrystalline",
+    "keep_discard": 1,
+    "standard_name": "Textured Multicrystalline (Silicon)",
+    "category": "Technology"
+  },
+  {
+    "original_term": "thermionic emission model",
+    "keep_discard": 1,
+    "standard_name": "Thermionic Emission Model",
+    "category": "Concept"
+  },
+  {
+    "original_term": "tra",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "yusuke",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "zero order",
+    "keep_discard": 1,
+    "standard_name": "Zero Order",
+    "category": "Concept"
+  },
+  {
+    "original_term": "100 crystal orientation",
+    "keep_discard": 1,
+    "standard_name": "<100> Crystal Orientation",
+    "category": "Concept"
+  },
+  {
+    "original_term": "21 sem pictures",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "acceptor type",
+    "keep_discard": 1,
+    "standard_name": "Acceptor Type (p-type)",
+    "category": "Concept"
+  },
+  {
+    "original_term": "activation method",
+    "keep_discard": 1,
+    "standard_name": "Activation Method",
+    "category": "Process"
+  },
+  {
+    "original_term": "advanced device architecture",
+    "keep_discard": 1,
+    "standard_name": "Advanced Device Architecture",
+    "category": "Concept"
+  },
+  {
+    "original_term": "analytical values",
+    "keep_discard": 1,
+    "standard_name": "Analytical Value",
+    "category": "Metric"
+  },
+  {
+    "original_term": "angular randomization",
+    "keep_discard": 1,
+    "standard_name": "Angular Randomization (of light)",
+    "category": "Phenomenon"
+  },
+  {
+    "original_term": "annealing profiles",
+    "keep_discard": 1,
+    "standard_name": "Annealing Profile",
+    "category": "Process"
+  },
+  {
+    "original_term": "approximate temperature variation",
+    "keep_discard": 1,
+    "standard_name": "Approximate Temperature Variation",
+    "category": "Metric"
+  },
+  {
+    "original_term": "asahi energy conversion",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "bequerel experimental setup",
+    "keep_discard": 1,
+    "standard_name": "Becquerel's Experimental Setup",
+    "category": "Concept"
+  },
+  {
+    "original_term": "broader uv",
+    "keep_discard": 1,
+    "standard_name": "Broader UV (Ultraviolet) Range",
+    "category": "Concept"
+  },
+  {
+    "original_term": "bse excitation energies",
+    "keep_discard": 1,
+    "standard_name": "BSE (Bethe-Salpeter Equation) Excitation Energy",
+    "category": "Metric"
+  },
+  {
+    "original_term": "calculate mie",
+    "keep_discard": 1,
+    "standard_name": "Calculate Mie Scattering",
+    "category": "Process"
+  },
+  {
+    "original_term": "causes voltage loss",
+    "keep_discard": 1,
+    "standard_name": "Causes of Voltage Loss",
+    "category": "Concept"
+  },
+  {
+    "original_term": "cell increased",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "cell losses",
+    "keep_discard": 1,
+    "standard_name": "Cell Losses",
+    "category": "Metric"
+  },
+  {
+    "original_term": "cell tandem",
+    "keep_discard": 1,
+    "standard_name": "Tandem Cell",
+    "category": "Technology"
+  },
+  {
+    "original_term": "cells green",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "cells mono",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "chemical process chemistry",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "circuit current densities",
+    "keep_discard": 1,
+    "standard_name": "(Short) Circuit Current Density",
+    "category": "Metric"
+  },
+  {
+    "original_term": "circular dichroism",
+    "keep_discard": 1,
+    "standard_name": "Circular Dichroism",
+    "category": "Process"
+  },
+  {
+    "original_term": "classically researched solar",
+    "keep_discard": 0,
+    "standard_name": "-",
+    "category": "-"
+  },
+  {
+    "original_term": "conversion efｬ…iency decrease",
+    "keep_discard": 1,
+    "standard_name": "Conversion Efficiency Decrease",
+    "category": "Phenomenon"
+  },
+  {
+    "original_term": "conveyor belt rapid",
+    "keep_discard": 1,
+    "standard_name": "Conveyor Belt Rapid Thermal Processing",
+    "category": "Process"
+  },
+  {
+    "original_term": "cost silicon",
+    "keep_discard": 1,
+    "standard_name": "Cost of Silicon",
+    "category": "Metric"
+  }
+]

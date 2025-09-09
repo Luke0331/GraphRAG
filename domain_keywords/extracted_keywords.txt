@@ -1,0 +1,1562 @@
+018 27155
+023 01331
+023 06948
+024 48290
+024 68018 www
+038 day
+10 1002
+10 1038
+10 1063 4976721
+10 13039 501100011033
+100 cm rear
+1002 er 8247
+101 093105
+1020 1020 table
+102159 22
+1040 nm unlike
+11 5g
+114 1068310690
+116 063106 2014
+116 24 1498215034
+12 gaas
+1207 properties resist
+129 147176
+145 example hannebauer
+147 228231
+15 min
+15 park park
+15 years
+1616 48 kjellberg
+1620 indium tin
+19 researchers reported
+198 715 874
+20 possible sum
+2018 20
+2020 500
+2020 gwdc 2030
+2022 12061217 1210
+2024
+21 94 1014
+231 111291
+235 111467
+25 2023 717
+27 79 15
+273 661667
+29 september3 october
+2d hud pattern
+30 435 72
+31 597 78
+353381
+3665 open access
+37 4549
+400 500 600
+41 735 730
+41 962968
+427437 www nature
+46 optimal parameter
+4695
+4b power conversion
+4d trackers start
+50c cleaning process
+519 20 6887
+550 nm ternary
+57 17941798
+588 67 71
+60 hr
+603 0123456789
+631 77 638
+661 39 80
+713 70 781
+726 81
+80 29 03
+97 712 615
+97 table average
+99 fact research
+9b 9h investigated
+absorber predict behavior
+absorber si solar
+absorber solar cell
+absorber spacer buffer
+absorber thickness avoided
+absorption absorbed photocurrent
+absorption calculated si
+absorption crystalline silicon
+absorption depths near
+absorption light scattering
+absorption loss
+absorption loss arises
+absorption minimizing
+absorption si solar
+absorption si wafer
+absorption silicon solar
+absorption solar cells
+absorption spectra solar
+abstract embedding anti
+abstract ﬂexible invisible
+ac il pabitra
+accepted february 2017
+accessible acknowledgment
+accomplished trade barriers
+accounted high xc
+acid min order
+acknowledgements research
+acknowledgments authors acknowledge
+actions create carbon
+acts mirror return
+addi tion mela
+adding periodic
+addition photonic crystal
+addition unlike poly
+adhesive refractive index
+admittance air using
+adopted nano resonators
+adopting
+affect shj
+affiliations open access
+aging standards observation
+aimed theory structural
+al 2020 cost
+al mater today
+al synthesis nanostructured
+al2o3 sno2 improve
+albany ny usa
+albedo5 despite relying
+alcohol ipa clean
+alharbi
+alkali etching shj
+allow reap benefit
+alloy components tessellation
+alter nating voltages
+alternative light absorption
+amorphous silicon solar
+amortization
+analysis loss
+analysis renewable sustainable
+analysis reﬂectivity
+analysis shj
+angle broadband antireflection
+angle polarization independent
+annealed different temperatures
+anon ymous reviewer
+anova
+antireflection coating
+antireflection coating arc
+anytime
+appl soft comput
+application capitalize prior
+applied monocrystalline si
+approaches evolutionary
+approaches terms increases
+approximately equivalent ldiff
+approximation arc problems
+arc different structures
+arc simulation
+arc stands compatibility
+area defined
+area measured standard
+array form
+arrays results discussion
+arrows feature
+arrows jagged notches
+article https doi
+assess passivation quality
+asymmetrical scheme need
+asymmetrical work functions
+atkinson center sustainability
+atomic hydrogen molecular
+atoms viewed
+attention types
+author affiliations aschool
+author article content
+author exclusive licence
+available https doi
+available solar energy
+avoid shading adjacent
+balance systems costs
+balancing reﬂection scattering
+bandgap constant defect
+bar mm electrical
+barcode nanowires defined
+barrier rear removed
+base vacuum pressure
+based redox flow
+based solar cell
+batteries solar
+behavior ag range
+bench batchtex
+bending radius
+bending radius rb
+benefits perc design
+bifacial morning hours
+bifacial pv modules
+bilayer films retain
+bilayered phosphorus doped
+billion kwh
+bj solar cells
+black white filters
+boltzmanns constant temperature
+boost path
+borders undercutting compli
+boron doping hydrogen
+bottlenecks application perovskite
+boundary step process
+box plots vbpv
+box structure inherited
+boxes varying thicknesses
+brooks limiting efﬁciency
+bsf regions formed
+building window issue
+bulk diff usion
+bulk im purities
+busbar resistance neglecting
+calculate srh recombination
+calculated dividing
+calculated obtain
+capability texturizing si
+capping groups group
+capture desired spatial
+capture promises redefine
+capture silicon
+carrier recombination nanostructures
+category saw tooth
+causing light escape
+cdcl2 treated cdte
+cdf despatch usa
+cdte bandgap grading
+cell 550 nm
+cell absorbance different
+cell absorbance increase
+cell adding binary
+cell adequately passivated
+cell affected differently
+cell arrays advantages
+cell circumvent issues
+cell crosssection view
+cell development enabled
+cell dssc method
+cell extended data
+cell increases probability
+cell light absorbed
+cell low complexity
+cell performance greater
+cell processing module
+cell proposed green36
+cell selected lack
+cell step
+cell submodule efficiencies
+cell thicknesses heidarzadeh
+cell using different
+cells advantages used
+cells appl phys
+cells energy procedia
+cells enhance jsc
+cells expect development
+cells gaas film
+cells photonics nanostruct
+cells red
+cells reduce reﬂectivity
+cells single blue
+cells tsrr structure
+cells typical shj
+cells various thicknesses
+cells14 supplementary
+cells30 studies collectively
+center distance figure
+centres dissociate centres
+cerium doped indium
+chang chuang
+change index
+change open circuit
+changed www nature
+changing flow rate
+charge carrier mobilities
+charge charge density
+china 5engineering research
+china decreases 20
+chips8 extends usability
+chong tk
+chromaticity diagram characteristics
+ciencies reported nrel
+ciency cells
+cient means
+circularity evaluation extended
+cleaning conventional rca
+clear improvements electron
+clear relationship contact
+clevios ph1000 spun
+climate reshoring pv
+climates pv wind
+cm sections resistivity
+cm1 undoped mapbi3
+cm2μs1 compared
+coating optical performance
+coating refractive index
+coating structure achieves
+coating substrate
+coatings silicon solar
+code grid resolution
+coefficient depends defect
+coefficient values reflection
+collection effi ciencies
+collection redirect
+color coordinates
+com scientificreports open
+combustion surfactant pf
+commonly used
+commonly used type
+compa
+compared conventional monofacial
+compared direction electric
+compared sample annealed
+compared traditional hydrogen
+comparing tables seen
+comparison examined photovoltaic
+comparison external quantum
+comparison underscore
+comparisons mean temperatures
+compatibility tsrr method
+competing interests references
+compilation multiple sources
+compromising appearance13 patterning
+concentrators experimental theoretical
+concept sol energy
+concept tunnel ibc
+conceptualization muhammad quddamah
+conceptualization validationreview
+conduc tion band18
+conduction nc siox
+conductive surface fj
+configuration topcon acts
+configurations highlighting
+confirmed
+confirms influence poly
+considered different structures
+considered fundamental
+considered somewhat unrealistic
+contact analysed compared
+contact design alleviates
+contact resistivity hsc
+contact sdr tex
+contacted shj
+contacts cigs mo
+contacts limit
+contacts photoconversion
+contents lists available
+contour plot computed
+control electromagnetic wave
+control junction recombination
+converges periodic symmetric
+converters appl
+conﬁgurations exported
+copper cu plating
+corner photos experimental
+corollary holds holes
+correlated disorder tio2
+corresponding inverse fourier
+cost active dual
+cost corrosion
+cost energy storage
+cost includes cost
+cost manufacturing
+cost producing expensive
+cost realized largely
+cost reduction improvements
+cost shj
+cost solar electricity
+costs installation having
+costs solar electricity
+cracks solar cell
+creates force separate
+creating contacts problematic
+critical factor achieving
+crucial role determining
+crystalline nc si
+crystals minimize
+cubic achieved polynomial
+cuevasa energy procedia
+cummulative energy output
+curable index matching
+current density current
+current density electrons
+current non col
+current planar reference
+current voltage characteristics
+currently stan
+currents likely overestimated
+currentvoltage curve reported
+currentvoltage curves reported
+cvd average values
+cvd temperatures used
+czochralski method
+d2 shockleyqueisser model
+dark curves batch
+data availability data
+data point annotations
+day estimated according
+decisive role subsequent
+declare competing interests
+decrease absorption
+decreases significantly cells
+decreasing power loss
+defining distinct illumination
+deformations bending
+degradation lid caused
+degradation shj solar
+demon strate
+deployment fundamentally clean
+deposit candidates multilayered
+deposited corning sub
+depositing process post
+deposition patterned si
+derived design rules
+description notable exceptions
+design binary structure
+designing optimizing
+designs fail capture
+designs undergo recombination
+despite ﬁgure ing
+determine limit
+deve loping
+development polycrystalline
+device architecture type
+device simulated eqe
+devices bare
+devices horizontal
+devices trackers maintain
+deﬁned device conﬁguration
+dhf anxm host
+dielectric multilayers jianming
+dielectric nanowires application
+dielectric structures fourier
+difference ef ev
+difference mainly
+difference solar cells
+different
+different arc structures
+different frequencies optimized
+different paths
+different referacrive
+different series equations
+different solar cells
+different spacing w1
+different temperatures recorded
+difficulties mounting cells
+diode model used
+dioxide tio2 utilized
+discharge focus
+discourage carrier
+discussion based model
+discussion mono antireflection
+disordered nanodisk arrays
+dissolution si anisotropic
+distributed bragg reﬂector
+distribution cut line
+distribution occurs structure
+domain fdtd
+dopant molecular positions
+doped si nondoped
+doping photovoltaic materials
+dotted horizontal line
+double pass configuration
+downloaded https onlinelibrary
+dried using nitrogen
+driven rotation mount
+droz
+dspectral
+dubois surface recombination
+duction increase shadowing
+durability performance
+dx doi org
+dye sen sitized
+dye sensitized
+earlier works literature
+early semiconductorinsulatorsemicon ductor
+economic factors
+economy consumption various
+editing declaration competing
+education study program
+eee iit guwahati
+effect influenced dopant
+effect texturing reducing
+effectively calculating designing
+effects led
+effi ciency cost
+efficiency area cm2
+efficiency evolution monocrystalline
+efficiency hbc solar
+efficiency polycrystalline solar
+efficiency si solar
+elec trons exhibit
+electrical financial benefits
+electrical performance solar
+electrodes solar cells
+electrolytes response reliability
+electron energy distribution
+enable highest
+energetic barriers
+energy 17125 li
+energy decarbonization transition
+energy decrease negatively
+energy ev position
+eqe compared materials
+eqe generally function
+eqn incorporation
+equally taojian wu
+er 8247 xian
+especially
+estimated error measurement
+etch rates undercutting33
+etchant enables
+etching cause problems
+evaporation specifications
+evolved past
+example analysis reduced
+excel package excel
+existing passivating contacts
+expected arising losses
+expected decrease
+expected defer domestic
+explanations terminologies
+exploit monocrystalline silicon
+extend path length
+external quantum
+extrinsic dopant species
+fabricating cutting edge
+fabricating silicon solar
+fabrication antireflection coatings
+fabrication solar cell
+face treatment improved
+factor 24 times
+factor loss mechanisms
+fbc solar cells
+feature limits pce
+features predicted simulations
+fermidirac probability function
+field bsf layers
+field fsf diffused
+field intensity implies
+field results
+fig 2c binding
+fig 2e likely
+fig 2j traditional
+fig evidence crystalline
+fig images field
+fig supplement fig
+figure 36 imaginary
+figure plot etching
+film ingap ingaas
+films contribute
+films fig calculated
+films lossy
+films lower
+films severely restrict
+finally 25
+fit lines evaluate
+fits li 1s
+fitting raman spectra
+fitting snox 366
+flat rigid panel
+flexibility brought thinning
+flexible luminescent solar
+flexible shj solar
+flexible si solar
+flexible silicon solar
+flexible solar cells
+flow nh3 led
+fluctuation
+flux measured using
+foldable si wafers
+footnotes requirements
+formed photolithography electron
+foundation china nsfc
+fracture surface wafer
+free laser transfer
+free passivating contact38
+frequencies random pattern
+fulfills prescribed set
+fullerene acceptors modify
+function accounts finite
+function annealing time
+function values chosen
+functional nano soft
+fundamentally humerothery rules
+gainp gaas gainasp
+gallium phosphide gap
+galvanic displacement jheng
+gas flow rates21
+gate power performance
+gaussian distribution rectangular
+gaussian fitting colour
+generation rate estimated
+ghasempour razi astaraei
+glass substrate composition
+glycol raw material
+gmail com department
+gold deposited rough
+gradient electrochemical potential
+gradually aligning refractive
+grant funded korea
+grant number rgp
+graphene optimization process
+grating solar cell
+grating texturing absorber
+gratings height selected
+green colors represent
+green highlights earlier
+green rectangles equilibrium
+green40 leaving
+grid resistance neglected
+grin metasurface increase
+ground soil temperature
+group functions adhesion
+group si3n4 common
+grow later stage
+growing developing neutral
+hakko used sol
+haoxin fu7 bin
+hardware wiring conduit
+having high
+haze values conducive
+hbc 740
+hbc solar cell
+hbc solar cells
+heating lifting
+hemi sphere sphere
+heterojunction organic
+heterojunction solar cell
+highlight challenges need
+highlighting type
+highly oxygen deficient
+highly variable natural
+hirai yusuke abe
+history unified terminology
+hitting surface ground
+hj song ym
+holt
+hopping weakly bound
+hosni meddeb1 maximilian
+hrc bspectral response
+hsc lower built
+https
+https onlinelibrary wiley
+hud network design
+hud point patterns
+hydrogen relaxation si
+hyperparameter optimization achieve
+ibc design deposited
+ibc solar cells
+identical angular response
+iii semiconductors chalcogenides
+illumination provides photons
+image correspond ge
+image silicon membrane
+imaginary permittivity calculated
+impact post deposition
+impact violent storm
+importance considering shading
+important pre
+imported mos2 reference
+improve
+improve performance
+improving generalizability findings
+incidence considered 520
+include targeted tax
+including optimized sinx
+including shockley
+increase device size
+increase sioxny thickness
+increased surface recombination
+increased ﬂexibil
+increases slope near
+increases total gain
+increasing limits dθ
+increments compared relying
+index active
+index anti reﬂection
+index close ideal
+index com posing
+index grin nanostructure
+index html information
+index layer
+index limit6365 tesselation
+index termsthin ﬁlm
+index w1i w2i
+indices different functional
+indium based transparent
+industrial strategic technology
+infancy benchmark restricted
+infants proc soc
+ing temperatures desired
+inside active layer
+installation currently promising
+installation described terms
+installation3436 addition nominal
+installed concrete time
+integrating sphere
+integrating sphere used
+intended use mitted
+inter face toxicity
+interband tunnelling passivating
+interdigitated contact ibc
+interface contact ito
+interface escape
+interfaces initiation removing
+interfacial morphological hybrid
+invisibility cloak optimization33
+ion implantation cause
+iot sensors ultra
+iran keywords antireflection
+islam krishna saraswat
+isosceles trapezoid
+items scale area
+ito si substrate
+jack colwell3 chunfang
+jmpp key performance
+joannopoulos improving film
+joannopoulos johnson winn
+junction nanocrystalline si
+junction solar cells
+jv characteristics
+kaneka improved hbc
+kept 03 30
+key role calculation
+kim kwangjin kim
+knob achieve efficiency
+korea email
+korea park research
+kristopher davis
+kspectral response current
+kwh installation operational
+lag term
+lambertian absorber resulting
+lambertian light trapping
+lamp remove surface
+largely
+laser fluences applied
+later review exception
+layer having 04
+layer layer dlarc
+layer nm dm
+layer optimized wavelength
+layer polyurethane pu
+layer positions
+layers identify nanocrystalline
+layers included error
+layers require silver
+layers restricted
+lead charge
+leads 95 cell
+leakage passivate
+led surge
+lee araki kojima
+lenslet array solar
+library rules use
+license illustrates optimized
+license visit http
+lie range values
+light absorption
+light cells interferences
+light path increment
+light reflectance diminishing
+light transmission10 time
+light trapping nanotextures
+light trapping properties
+light trapping solar
+like
+likely enter band
+lili yuanpei enhancement
+limit large
+limit μm si
+limitations power conversion
+limited al2o3 passivation
+limited contact selectivity
+limited recombination local
+limits simple complex
+line tangent curve
+list items apply
+literature 33 34
+liu yao
+locate mssp https
+longis shj
+loss jsc loss
+loss resistive loss
+losses flp effects
+losses nat energy
+losses technological limitations
+low index
+low temperature
+lower base dimensional
+lower contact device
+lower non molecular
+lower power loss
+lower power threshold
+lowest weighted average
+luminescence balances
+major actor ongoing
+major difference shj
+make use doped
+management strategy light
+manufacture installation cost
+manuscript authors approved
+margins vertical integration
+market share decline
+match measured eqe
+materials holistic review
+materials options solar
+matrix based formalism
+matthieu despeisse2 stefaan
+maturity reliability
+maximum path length
+maximum residual error
+mdpi stays
+mdpi stays neutral
+meant
+measure temperature
+measured pitches current
+measured temperature 25c
+measuring wavelength dependent
+mechani cally brittle
+mechanism induces
+mechanisms robot ai
+meet require ments
+mended guidelines literature
+mesh refinement strategy
+meshing parameters maximum
+metal wires run
+metasurface considered simulations
+metasurface graded index
+metasurfaces bare nanodisks
+metrics article recommendations
+mgf2 relatively zero
+microcrystalline μm grain
+microemulsion structure
+microholes divided
+microns provide good
+migration
+mini logger gl840
+minimize recom bination
+minimized microgrid
+minimizing deficit open
+minimizing reﬂected photocurrent
+ministry education culture
+ministry higher education
+mirror boosted
+mirror reﬂectivity
+mismatched spectrolab nrel
+mission acknowledges support
+mitigating resulting interface
+mod potential derive
+model setting
+models address
+module retained approxi
+module showed lower
+module sol
+modules review provides
+modules tested function
+modules ﬁeld installation
+molybdenum oxide hole
+monitor placed
+monochromator wavelength range
+monocrystalline pv cells
+months depending
+mounted bifacial photovoltaic
+moving van
+mqw configurations different
+mukulkdas
+muñoz ozanne nguyen
+mv compared untreated
+nance effect assumed
+nano architected metals
+nanoabsorber configurations sqw
+nanocrystalline routes
+nanocrystalline silicon film
+nanocrystalline silicon nc
+nanocrystallization routes
+nanodisk arrays bare
+nanoimprint solar cells
+nanostructures depletion region
+nanostructuring absorber layer
+nanotwins marked yellow
+nanowire based solar
+narios 2020 2025
+narrow potential
+narrows sharpness edges
+naturally regard shj
+nature indium tin
+nc siox thickness
+negative meaning
+neglecting brn
+net number electrons
+nitride ieee photovolt
+noa81 ﬁlm natural
+nologies including heterojunctions
+nology gaps exist
+noncommercial noderivs unported
+noticeable weight loss
+nucleated silver nanoparticles
+numerically calculate absorption
+obtained intrinsic recombination
+ods cost
+offsets ag2znsnse4 cds
+online library rules
+open circuit voltage
+opening screen
+operation arrows indicate
+optimize rib
+optimized vtes
+order
+ordinates referenced cell
+organicinorganic hybrid film
+outputvbpv
+overall resistance depends
+overcome intrinsic limitations
+owing energy gap
+owns advantages
+oxidation alkaline
+oxidation halide
+oxides sio2 mgo
+oxygen carbon reach
+oxygen hydro genated
+pa usa mixed
+pairs relative
+pandemic17 demand
+panel calculated supplementary
+panels adapted permission
+panels32 based best
+papillae vary size
+parameters ced gwp
+parameters listed table
+parameters solar cell
+pared single path
+parenthesis
+park kim kim
+particularly challenging urban
+particularly 𝑅𝑆
+passivate si dangling
+passivated contacts
+passivated limited contact
+path length light
+path length specifically
+path shown figures
+pathways asymmetrical conductivityassisting
+pattern terms different
+patterned solar cell
+pawinanto4 andrivo
+pc1d simulation parameters
+perc solar cells
+perceived close standard
+performance parameters different
+performance si solar
+performance silicon solar
+performance solar cell
+perimeter array restricts
+periodic grin metasurfaces
+periods
+periods influences appearance
+permittivity represented ε0
+permittivity space charge
+perovskite stability challenges
+peroxide h2o2 fabrication
+perpendicular causes light
+petri dish
+phase gradient metasurface
+photocur rent effective
+photogenerated carrier management
+photograph installation
+photoluminescence zno phosphor
+photon management pv
+photonic materials huds
+photonic structures solar
+photons absorbed sc
+photons effectively reaching
+photons guarantee absorbed
+photons isotropic angular
+photovoltaic cover glasses
+photovoltaic solar
+physical intuition
+pioneered sanyo later
+pip 3919 795
+piranha solution
+placing stringent
+planar solar cell
+planes conventional
+planes permanently airborne
+plank constant speed
+plant applications divided
+plasma continuous plasma
+plasmonic solar cells
+plated electrodes cost
+plot calculation
+pm absence
+pnas direct submission
+polycrystalline si solar
+polycrystalline silicon solar
+polydimethyl siloxane pdms
+polymeric layers characterizations
+polzin luderer grübel
+position depen dent
+possibility photons escape
+postpone major
+power conversion efficiency
+power conversion loss
+power dissipation using
+power loss mpp
+power output vbpv
+power spectral density
+ppns active layer
+practicality usability natural
+preparation uv curable
+presents addi tional
+presumed varying
+prevent epitaxial
+previous studies
+printer combined stages
+printing etch
+printing narrow grid
+printing situ shadow
+probably
+problems low bulk
+process http
+process masked si
+process replacing silver
+processes starting sand
+production compared conventional
+production enabling load
+products matrix doped
+profile electromag netic
+program development jiangsu
+project author contributions
+promise outlook
+pronounced differences
+property low index
+prototypes uniqueness stems
+provide possibility module
+pss core shell
+publication discussion
+publishers note statements
+publishing agreement author
+punched holes diameters
+pv cell silicon
+pv tackled use
+pyramid angle defined
+pyramids paraboloids ca
+qb higher local
+qeadded structure qestandard
+qualitatively explained pronounced
+quantum efficiency
+quantum yields excess
+qvp2p2 vp1 vn1
+qw barrier nanostructures
+qw solar cells
+radiative recombination imperfect
+rahmawati contributed
+raja yi
+ralph nuzzo3 john
+raman fan fundamental
+random superposition
+range possible angles
+rarely studied pscs
+rate photon absorption
+rate value decreases
+ratio pure argon
+raytracing modelling infrared
+reaching
+rear scattered light
+rear surface passivation
+rear using laser
+received 14 november
+recombination contact
+recombination current gap
+recombination key
+recombination mechanism traditionally
+recombination power losses
+recombination rate holes
+recombination values
+recycling2123 resource
+redirect internally
+reduce wafer costs15
+reduces probability shockleyreadhall
+reducing recombination
+reflectance amorphous silicon
+reflectance eqe test
+reflectance shj solar
+reflected solar energy
+reflection coating arc
+reflection selected
+reflection structure order
+reflection transmission usage
+refractive index coating
+refractive index silicon
+refractive index thickness
+regard jsc photoabsorption
+region lambertian model
+region remaining al
+regular arrays
+rehan muhammad
+reichel fell bivour
+relation relative
+relatively uniformly distributed
+relax crystallographic dislocations
+remove native
+removed using buffered
+rendering film denser
+renew energy
+renew energy 15
+renew sust energy
+renewable resources offset
+rent ideally
+replacement concrete lifespan
+reported cell attributes
+reported drastic increase
+reported efficiencies
+reported values compared
+represents ri
+research wishes improve
+resembles honeycomb
+resilient intelligent sustainable
+resistivity sufﬁcient pas
+resolved scattering properties
+respectively ibc indicates
+response bsf formed
+response currentvoltage curves
+response regulation reignition
+restricting diffusion tunnel
+restricts overall conversion
+results base condition
+results lces 49
+results methodology test
+review comprehensive discussion
+reviewing key
+reﬂectance better index
+reﬂectance transmission absorption
+reﬂective graded index
+reﬂector layer silicon
+richter
+richter ise fraunhofer
+richter limit function
+ring figure1b displays
+rooftops detached rear
+rotated 180 degrees
+routine
+rs loss mpp
+s5 infer chemical
+saeta ferry pacifici
+saint cast et
+saturation current density
+sawing reduced cost
+sayed mawaheb
+scale simulations si
+scale table ir
+sccm working
+scenario sources
+schroder
+scientificreports scientific reports
+se ultrathin
+seasons lower solar
+section view figure
+sectors references
+selected deposited
+selective solar cell
+selective tiox layers
+self restoring nanocrystalline
+semiconduc tors close
+sensitized solar cells
+seo flexible crystalline
+september 2015 accepted
+set asymmetric carrier
+setting nm3
+shading effects ascarriersforboth
+shadow mask define
+sheet resistance rsh
+sheet resistivity sole
+shells law
+shj cells passivated
+shj ibc
+shj solar cells
+shj state
+shj texturing random
+short circuit current
+shorter wavelength photons
+shortest wavelength
+showed inferior antireflection
+shows modules safely
+shows pff complete
+si amorphous cell
+si bilayer microstructure
+si cell differ
+si films illuminations
+si films quartz
+si ge mqw
+si hi si
+si interband tunnelling
+si interface passivation
+si multijunctions perovskite
+si nanocone arc
+si nanocrystalline microcrystalline
+si nanocrystals doping
+si passivation layers
+si photovoltaic cell
+si photovoltaics summarized
+si represents type
+si semiconductor indirect
+si solar cell
+si solar cells
+si solar cells68
+si solar panels
+si surface area
+si thickness smaller
+si thickness solar
+si versus si
+sides cost
+sides table different
+sidewalls noted hybrid
+significant decrease
+significant transparency mqw
+signiﬁcant challenges managing
+sih3 approach porous
+sili requires advanced
+silicon films si
+silicon heterojunction solar
+silicon layer contact
+silicon manufacturing stage
+silicon pv cell
+silicon pv cells
+silicon si solar
+silicon solar cell
+silicon solar cells
+silicon tunnel junction
+silicon wafer reinforced
+sims signals
+simulation assembly modeling
+simulation efficiency function
+simulation power
+simulations electrical simulations
+single etch passivation
+single module expected
+single shot versus
+sinton wct
+sinx 65 wavelength
+sinx negative charges
+sio2 etch using
+sio2 tio2 refractive
+sion
+siox different thicknesses
+siox window layer
+size crucibles
+slarc dlarc overall
+slicing wafer wafer
+slow rate sol
+small deviations practical
+smaller supercells anti
+sno2 phase detected
+soaking following procedure
+soils crack dry
+solaeon 68 organic
+solar cell contrast
+solar cell efficiency
+solar cell fabrication
+solar cell nanocone
+solar cell structures
+solar cells
+solar cells absorption
+solar cells attracted
+solar cells cz
+solar cells figure
+solar cells fj
+solar cells flexible
+solar cells gap
+solar cells interband
+solar cells light
+solar cells semi
+solar cells substrates
+solar cells thicknesses
+solar cells thinning
+solar energy capture
+solar energy conversion
+solar energyconversion storage
+solar heat fuels
+solar panel efficiency
+solar panel performance
+solar panel substrate
+solar panels efficient
+solar panels substrate
+solar radiation glass
+solar thermal capacity
+solar tracking pv
+song morphology optimization
+sorted matrix bins
+sources nellis air
+sources route goal
+space requires maintenance
+spacing holes seamless
+spectrum φabs
+spheres correspond cu
+spinodal design si
+sports science technology
+spots fft image
+sqw mqw
+srh recombination lifetime
+stability coating uv
+stability similar devices
+stability simulation conducted
+stabilization efficient
+standardised basis version
+state applying dc
+statement data support
+stem absorption
+steps deviates
+stepwise changes aoi
+stiffness high
+storage deployment
+strain variations directions
+streching deposited annealed
+stress analysis silicon
+stress central silicon
+stress state silicon
+stretching intensities normal
+structure clearer comparison
+structure silicon wafer
+structure used trap
+structures absence rear
+structures moo3 moo2
+stuckelberger haug
+studies devoted
+study appl phys
+study hydrogenated amorphous
+study single
+study sizes
+sublimes congruently enables
+subsection adding arc
+substrate fdtd simulation
+substrate replaced equivalent
+successful electrical conversion
+successfully charged
+suggested significant contribution
+sun cell module
+sun notable exceptions
+sunlight absorption slab
+sunlight bifacial panels
+sunlight optimizing performance
+sunlight plane absorption
+sunsolve accessed
+superstrates191 contribute
+supplementary table explored
+support anterdipan
+support structures research
+suppression reﬂection
+surface consistent definitions
+surface damages scallops
+surface drivers trend
+surface junction polarity
+surface occupied
+surface plotted fig
+surface recombination losses
+surface roughness gap
+surface temperature analyzed
+surface texturing bsf
+sustainable traditionally
+switches donor type
+synergy various
+synonymous low
+sys tematically addressed
+systems dual capture
+systems world estimated
+szlufcik defect passivation
+table 11 basis
+table designs different
+table order understand
+table parameters solar
+table presents data
+tables ii bulk
+tables116 continuously updated
+tance
+tco interdigitated metallization
+tco interface illustrated
+tcos performance
+technique sem results
+technological bricks realization
+tematically controlled
+temperature 300 pressure
+temperature approach excel
+temperature heated straight
+temperature range prevent
+temperature sensors thermocouples
+temperature typically
+temperatures 50
+term stability method
+terminal
+terms conditions https
+terms publishing agreement
+terrestrial module efficiencies
+test according astm
+test conditions summing
+tested key parameters
+textured absorber optimized
+textured pyramid size
+textured si wafers
+textured solar cell
+texturing absorber surface
+texwipe attached mirrors
+th original bc
+theoretical analysis optical
+thermal stress contribute
+thermalization contribution isothermal
+thermionic emission model
+thickness considering bulk
+thickness diffraction inverted
+thickness leads high
+thickness light harvesting
+thicknesses influence ito
+tilt angle specific
+tilted pv systems
+time domain fdtd
+tio2 d3
+tion cost
+tion near far
+tions pertaining
+topcon act anti
+topology different optimization
+total projected area
+tracing simulations used
+transfer flexible
+transfer lotus leaf
+transferring using tsrr
+transition outlook
+transmittances transmittance jsc
+transmitted spectrum
+transparency multilayered coating
+transparent photovoltaics ultrathin
+transparent si solar
+transparent solar cell
+transparent solar cells
+transport recombination losses
+trap ping versus
+trapped hydrogen bhsi
+trapping disordered photonic
+trapping helpful
+trapping mechanism waveguide
+trapping performance
+trapping shown deterministic
+trapping si slab
+trapping strategy fitting
+trapping surface rear
+trapping32 skewing light
+traveling path length
+travels belt furnace
+tref reference temperature
+tscs short wavelength
+tsrr
+tsrr structure impact
+tucher
+tunnel ibc relies
+tunnel ibc solar
+tunnelling btbt transport
+type rear ibc
+types nanostructures structure
+typical
+typical com
+typically defined
+ultra ibc cells
+ultrathin si solar
+ultrathin silicon solar
+understanding work si
+uniformity precisely strict
+union renew
+use distribution reproduction
+use focusing lenses
+use mitted
+use oa
+use permitted statutory
+use scattered omnidirectional
+used semiconducting
+using antireflection
+using az4330e photoresist
+using coreshell
+using pencil scratch
+using plano convex
+using qsspc
+using remote
+using software complete
+using solar cell
+using type czochralski
+using values schenks
+using wavelength scale
+utilizing copper catalysts
+uv blocking visible
+uv curable
+value eqe 400
+values jsc 42
+values median values
+vbi average
+vco layer vertical
+version 65 tables
+version tables dreported
+versus kwh
+vertical illumination larger
+vertically mounted bifacial
+vhf pecvd passivation
+vhf1 absolute average
+vhf1 optoelectrical properties
+vhf1 vhf2 separately
+vhf2 different electrode
+vicinity azo
+vietnam 2015 requires
+view copy
+view copy license
+view journal view
+view sem images
+view xy plane
+virginia
+virtual reality headsets
+voc using quasi
+voltage curve obtained
+voltage voc poor
+vtes pf 127
+wafer based
+wafer fabrication solar
+wafer fig comparison
+wafer left neutral
+wafer pecvd rear
+wafer surface passivation
+wafers means
+wafers placed furnace
+wafers10 35 merging
+wang wang
+water desalination opt
+water dye sensitized
+water growth rate
+water tap water
+wave coupling ito
+waveguide losses decreased
+wavelength nm contact
+wavelength range compared
+weak main reasons
+weber blakers novel
+website cite article
+weight loss
+weight ratio g1
+wide range wavelengths
+wijs band offsets
+window layer deposited
+winter solstice noon
+work population size
+writingreview editing validation
+www pss com
+xia zhong luo
+xiyan tang1 qing
+yablonovitch inhibited spontaneous
+yablonovitch limit normal
+ydrogenated amorphous silicon
+ye yuan1
+york
+yu qiaojiao
+yu yao wu
+zhao green
+zhao zhao zhu
+zhou yang bai
+zibo zhou
+zip donor acceptor
+σdark gradually decays
+τsurface defined terms
+ﬁgures additional layers
+ﬁlm develops reddish

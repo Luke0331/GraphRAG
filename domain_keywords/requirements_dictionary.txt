@@ -1,0 +1,18 @@
+# 硅电池领域词典提取Pipeline依赖包
+
+# PDF处理
+PyMuPDF>=1.23.0
+
+# 关键词提取
+keybert>=0.7.0
+sentence-transformers>=2.2.0
+
+# 数据处理
+pandas>=1.5.0
+openpyxl>=3.0.0
+
+# 基础依赖
+numpy>=1.21.0
+scikit-learn>=1.0.0
+torch>=1.12.0
+transformers>=4.20.0 
