@@ -1,0 +1,1 @@
+This project designed and implemented, from the ground up, a GraphRAG intelligent question-answering system tailored for the silicon solar cell domain, combining a knowledge graph with vector retrieval. 
